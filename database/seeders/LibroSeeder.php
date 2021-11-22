@@ -2,8 +2,8 @@
 
 namespace Database\Seeders;
 
-use illuminate\Database\seeder; 
-use illuminate\Support\Facades\DB;
+use Illuminate\Database\seeder; 
+use Illuminate\Support\Facades\DB;
 
 class LibroSeeder extends Seeder
 {
